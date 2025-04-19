@@ -391,6 +391,7 @@
               <aggregation>Sum</aggregation>
               <approx-count>5448</approx-count>
               <contains-null>true</contains-null>
+              <object-id>[Sales_E9400232BA6F4AADBDF48E68FBA0154E]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>OrderDate</remote-name>
@@ -404,6 +405,7 @@
               <aggregation>Year</aggregation>
               <approx-count>870</approx-count>
               <contains-null>true</contains-null>
+              <object-id>[Sales_E9400232BA6F4AADBDF48E68FBA0154E]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>EmpID</remote-name>
@@ -417,6 +419,7 @@
               <aggregation>Sum</aggregation>
               <approx-count>44</approx-count>
               <contains-null>true</contains-null>
+              <object-id>[Sales_E9400232BA6F4AADBDF48E68FBA0154E]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>EmpName</remote-name>
@@ -431,6 +434,7 @@
               <approx-count>45</approx-count>
               <contains-null>true</contains-null>
               <collation flag='1' name='LEN_RGB_S2' />
+              <object-id>[Sales_E9400232BA6F4AADBDF48E68FBA0154E]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>EmpTitle</remote-name>
@@ -445,6 +449,7 @@
               <approx-count>9</approx-count>
               <contains-null>true</contains-null>
               <collation flag='1' name='LEN_RGB_S2' />
+              <object-id>[Sales_E9400232BA6F4AADBDF48E68FBA0154E]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>SalesReg</remote-name>
@@ -459,6 +464,7 @@
               <approx-count>9</approx-count>
               <contains-null>true</contains-null>
               <collation flag='1' name='LEN_RGB_S2' />
+              <object-id>[Sales_E9400232BA6F4AADBDF48E68FBA0154E]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>OrderType</remote-name>
@@ -473,6 +479,7 @@
               <approx-count>2</approx-count>
               <contains-null>true</contains-null>
               <collation flag='1' name='LEN_RGB_S2' />
+              <object-id>[Sales_E9400232BA6F4AADBDF48E68FBA0154E]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>CustType</remote-name>
@@ -487,6 +494,7 @@
               <approx-count>2</approx-count>
               <contains-null>true</contains-null>
               <collation flag='1' name='LEN_RGB_S2' />
+              <object-id>[Sales_E9400232BA6F4AADBDF48E68FBA0154E]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>CustID</remote-name>
@@ -500,6 +508,7 @@
               <aggregation>Sum</aggregation>
               <approx-count>1740</approx-count>
               <contains-null>true</contains-null>
+              <object-id>[Sales_E9400232BA6F4AADBDF48E68FBA0154E]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>CustName</remote-name>
@@ -514,6 +523,7 @@
               <approx-count>1736</approx-count>
               <contains-null>true</contains-null>
               <collation flag='1' name='LEN_RGB_S2' />
+              <object-id>[Sales_E9400232BA6F4AADBDF48E68FBA0154E]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>CustState</remote-name>
@@ -528,6 +538,7 @@
               <approx-count>49</approx-count>
               <contains-null>true</contains-null>
               <collation flag='1' name='LEN_RGB_S2' />
+              <object-id>[Sales_E9400232BA6F4AADBDF48E68FBA0154E]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>ProdCategory</remote-name>
@@ -542,6 +553,7 @@
               <approx-count>7</approx-count>
               <contains-null>true</contains-null>
               <collation flag='1' name='LEN_RGB_S2' />
+              <object-id>[Sales_E9400232BA6F4AADBDF48E68FBA0154E]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>ProdNumber</remote-name>
@@ -556,6 +568,7 @@
               <approx-count>79</approx-count>
               <contains-null>true</contains-null>
               <collation flag='1' name='LEN_RGB_S2' />
+              <object-id>[Sales_E9400232BA6F4AADBDF48E68FBA0154E]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>ProdName</remote-name>
@@ -570,6 +583,7 @@
               <approx-count>79</approx-count>
               <contains-null>true</contains-null>
               <collation flag='1' name='LEN_RGB_S2' />
+              <object-id>[Sales_E9400232BA6F4AADBDF48E68FBA0154E]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>Quantity</remote-name>
@@ -583,6 +597,7 @@
               <aggregation>Sum</aggregation>
               <approx-count>14</approx-count>
               <contains-null>true</contains-null>
+              <object-id>[Sales_E9400232BA6F4AADBDF48E68FBA0154E]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>Price</remote-name>
@@ -596,6 +611,7 @@
               <aggregation>Sum</aggregation>
               <approx-count>67</approx-count>
               <contains-null>true</contains-null>
+              <object-id>[Sales_E9400232BA6F4AADBDF48E68FBA0154E]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>Discount</remote-name>
@@ -609,6 +625,7 @@
               <aggregation>Sum</aggregation>
               <approx-count>16</approx-count>
               <contains-null>true</contains-null>
+              <object-id>[Sales_E9400232BA6F4AADBDF48E68FBA0154E]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>Order Total</remote-name>
@@ -622,6 +639,7 @@
               <aggregation>Sum</aggregation>
               <approx-count>638</approx-count>
               <contains-null>true</contains-null>
+              <object-id>[Sales_E9400232BA6F4AADBDF48E68FBA0154E]</object-id>
             </metadata-record>
           </metadata-records>
         </connection>
@@ -1142,9 +1160,9 @@
       <size maxheight='860' maxwidth='650' minheight='560' minwidth='420' />
       <zones>
         <zone h='100000' id='4' type-v2='layout-basic' w='100000' x='0' y='0'>
-          <zone h='60206' id='7' param='horz' type-v2='layout-flow' w='79534' x='1231' y='1040'>
-            <zone h='60206' id='5' type-v2='layout-basic' w='79534' x='1231' y='1040'>
-              <zone h='31607' id='3' name='Cluster' w='79534' x='1231' y='1040'>
+          <zone h='59729' id='7' param='horz' type-v2='layout-flow' w='79538' x='1231' y='1429'>
+            <zone h='59729' id='5' type-v2='layout-basic' w='79538' x='1231' y='1429'>
+              <zone h='31357' id='3' name='Cluster' w='79538' x='1231' y='1429'>
                 <zone-style>
                   <format attr='border-color' value='#000000' />
                   <format attr='border-style' value='none' />
@@ -1152,7 +1170,7 @@
                   <format attr='margin' value='4' />
                 </zone-style>
               </zone>
-              <zone h='28599' id='9' name='Histogram' w='34918' x='1231' y='32647'>
+              <zone h='28372' id='9' name='Histogram' w='34923' x='1231' y='32786'>
                 <zone-style>
                   <format attr='border-color' value='#000000' />
                   <format attr='border-style' value='none' />
@@ -1160,7 +1178,7 @@
                   <format attr='margin' value='4' />
                 </zone-style>
               </zone>
-              <zone h='28599' id='10' name='Smart Histogram' w='44616' x='36149' y='32647'>
+              <zone h='28372' id='10' name='Smart Histogram' w='44615' x='36154' y='32786'>
                 <zone-style>
                   <format attr='border-color' value='#000000' />
                   <format attr='border-style' value='none' />
@@ -1170,8 +1188,8 @@
               </zone>
             </zone>
           </zone>
-          <zone h='60206' id='13' param='vert' type-v2='layout-flow' w='18004' x='80765' y='1040'>
-            <zone h='16385' id='8' name='Cluster' pane-specification-id='0' param='[federated.1w4z5xl09e57i41ga3dz00sd1mr7].[none:AdhocCluster:1:ok]' type-v2='color' w='18004' x='80765' y='1040'>
+          <zone h='59729' id='13' param='vert' type-v2='layout-flow' w='18000' x='80769' y='1429'>
+            <zone h='22500' id='8' name='Cluster' pane-specification-id='0' param='[federated.1w4z5xl09e57i41ga3dz00sd1mr7].[none:AdhocCluster:1:ok]' type-v2='color' w='18000' x='80769' y='1429'>
               <zone-style>
                 <format attr='border-color' value='#000000' />
                 <format attr='border-style' value='none' />
@@ -1179,7 +1197,7 @@
                 <format attr='margin' value='4' />
               </zone-style>
             </zone>
-            <zone h='8452' id='12' name='Treemap' pane-specification-id='0' param='[federated.0ty91bj101zyrj1bil63e1x9hyqi].[sum:Order Total:qk]' type-v2='color' w='18004' x='80765' y='17425'>
+            <zone h='11608' id='12' name='Treemap' pane-specification-id='0' param='[federated.0ty91bj101zyrj1bil63e1x9hyqi].[sum:Order Total:qk]' type-v2='color' w='18000' x='80769' y='23929'>
               <zone-style>
                 <format attr='border-color' value='#000000' />
                 <format attr='border-style' value='none' />
@@ -1188,7 +1206,7 @@
               </zone-style>
             </zone>
           </zone>
-          <zone h='37714' id='11' name='Treemap' show-caption='true' w='97538' x='1231' y='61246'>
+          <zone h='37413' id='11' name='Treemap' show-caption='true' w='97538' x='1231' y='61158'>
             <zone-style>
               <format attr='border-color' value='#000000' />
               <format attr='border-style' value='none' />
@@ -1278,7 +1296,7 @@
       <simple-id uuid='{65065C6C-F7BA-47D5-83C8-5D503B2BE6CA}' />
     </dashboard>
   </dashboards>
-  <windows source-height='51'>
+  <windows show-side-pane='false' source-height='51'>
     <window class='worksheet' name='Cluster'>
       <cards>
         <edge name='left'>
@@ -1358,7 +1376,7 @@
       </cards>
       <simple-id uuid='{FA940568-B3DF-42A3-AC19-DF48E3BA0E85}' />
     </window>
-    <window class='worksheet' maximized='true' name='Treemap'>
+    <window class='worksheet' name='Treemap'>
       <cards>
         <edge name='left'>
           <strip size='160'>
@@ -1386,7 +1404,7 @@
       </cards>
       <simple-id uuid='{731C0A97-1C3E-42B4-B135-277C7C927AE2}' />
     </window>
-    <window class='dashboard' name='Cluster_Histo_Treemap'>
+    <window class='dashboard' maximized='true' name='Cluster_Histo_Treemap'>
       <viewpoints>
         <viewpoint name='Cluster'>
           <zoom type='entire-view' />
